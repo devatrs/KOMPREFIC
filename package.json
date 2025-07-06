@@ -1,7 +1,7 @@
 {
   "name": "platform-lelang-bni",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
   "type": "module",
   "homepage": "https://devatrs.github.io/KOMPREFIC/",
   "scripts": {
